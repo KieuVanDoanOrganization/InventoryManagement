@@ -1,4 +1,5 @@
 <script setup lang="ts">
+// Xin chao ban minh ten la Thanh
   function recoverFromError(error: any) {
     error.value = null;
   }
